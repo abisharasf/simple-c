@@ -1,0 +1,3 @@
+[submodule "external-libs/simple-c-external-lib"]
+	path = external-libs/simple-c-external-lib
+	url = /Users/alexb/work/c-demo-test/simple-c-external-lib
