@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "../lib/msg1.h"
-#include "../lib/msg2.h"
+#include "lib/msg1.h"
+#include "lib/msg2.h"
 
 int main()
 {
