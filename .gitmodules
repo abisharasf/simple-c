@@ -1,0 +1,3 @@
+[submodule "external-libs/simple-c-external-lib"]
+	path = external-libs/simple-c-external-lib
+	url = git@github.com:abisharasf/simple-c-external-lib.git
